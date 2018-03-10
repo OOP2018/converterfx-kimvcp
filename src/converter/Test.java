@@ -1,5 +1,10 @@
 package converter;
-
+/**
+ * Test class for getting length of value.
+ * 
+ * @author Vichaphol Thamsuthikul
+ *
+ */
 public class Test {
 	public static void main(String[] args) {
 		// example how to get the values
